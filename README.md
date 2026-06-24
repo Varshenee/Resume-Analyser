@@ -3,6 +3,7 @@
 An AI-powered cloud-native resume analysis platform that evaluates resumes for ATS (Applicant Tracking System) compatibility using Google Gemini AI.
 
 The application automatically analyzes uploaded PDF resumes, generates ATS scores, provides personalized improvement suggestions, and visualizes analytics through Looker Studio using a fully serverless, event-driven architecture on Google Cloud Platform.
+https://www.youtube.com/watch?v=3YgFpGqTN3k 
 
 ---
 
